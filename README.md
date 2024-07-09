@@ -1,5 +1,5 @@
-# AWS Generative AI PoC : Complex PDF RAG
-#### for SC&T Trading
+# AWS Generative AI PoC : PDF RAG
+#### <i>for SC&T Trading</i>
 
 ## 실행 환경
 - Amazon SageMaker Studio - JupyterLab (Classic 아님)
@@ -13,9 +13,11 @@
   > 23 번 노트북은 PDF를 PDFPlumber로 파싱하여 인덱싱 하고, RAG 기반 질의 합니다. (Hybrid Search) <br>
   > 24 번 노트북은 PDF를 LLAMA-INDEX로 파싱하여 인덱싱 하고, RAG 기반 질의 합니다. (Hybrid Search)
 
+
+## [그림] Complex PDF RAG flow
 ![flow](./img/complex-pdf-workflow.png)
 
 ---
 
-원본 소스는 아래 aws-samples git repo를 참조하세요.<br>
+Complex RAG 원본 소스는 아래 aws-samples git repo를 참조하세요.<br>
 [RAG over Complex PDF on AWS](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/c3d2185f419790905a2879284bf0c050355e0702/genai/aws-gen-ai-kr/20_applications/02_qa_chatbot/10_hands_on_lab/02_rag_over_complex_pdf)
