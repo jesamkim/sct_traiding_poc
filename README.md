@@ -5,9 +5,12 @@
 - Amazon SageMaker Studio - JupyterLab (Classic 아님)
 
 ## 주피터 노트북을 순서대로 실행하세요.
-- 01, 02 번 노트북은 환경설정 부분 입니다.
-- 03 번 노트북은 OpenSearch에 PDF를 인덱싱 합니다.
-- 04 번 노트북은 RAG 기반 질의 응답을 합니다.
+- 공통 : 01, 02 번 노트북은 환경설정 부분 입니다.
+- Complex PDF RAG
+  > 13 번 노트북은 OpenSearch에 PDF를 인덱싱 합니다.
+  > 14 번 노트북은 RAG 기반 질의 응답을 합니다.
+- Simple PDF RAG
+  > 23 번 노트북은 PDF를 OpenSearch에 인덱싱 하고, RAG 기반 질의 합니다. (Hybrid Search)
 
 ![flow](./img/complex-pdf-workflow.png)
 
