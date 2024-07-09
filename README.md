@@ -10,7 +10,8 @@
   > 13 번 노트북은 OpenSearch에 PDF를 인덱싱 합니다.
   > 14 번 노트북은 RAG 기반 질의 응답을 합니다.
 - Simple PDF RAG
-  > 23 번 노트북은 PDF를 OpenSearch에 인덱싱 하고, RAG 기반 질의 합니다. (Hybrid Search)
+  > 23 번 노트북은 PDF를 PDFPlumber로 파싱하여 인덱싱 하고, RAG 기반 질의 합니다. (Hybrid Search)
+  > 24 번 노트북은 PDF를 LLAMA-INDEX로 파싱하여 인덱싱 하고, RAG 기반 질의 합니다. (Hybrid Search)
 
 ![flow](./img/complex-pdf-workflow.png)
 
