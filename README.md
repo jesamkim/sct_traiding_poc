@@ -10,5 +10,5 @@
 
 ---
 
-원본 소스는 아래 aws-samples git repo를 참조하세요.
+원본 소스는 아래 aws-samples git repo를 참조하세요.<br>
 [RAG over Complex PDF on AWS](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/c3d2185f419790905a2879284bf0c050355e0702/genai/aws-gen-ai-kr/20_applications/02_qa_chatbot/10_hands_on_lab/02_rag_over_complex_pdf)
