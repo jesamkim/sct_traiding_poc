@@ -6,13 +6,24 @@
 
 ## 주피터 노트북을 순서대로 실행하세요.
 - 공통 : 01, 02 번 노트북은 환경설정 부분 입니다.
+<br>
 - Complex PDF RAG
   > 13 번 노트북은 OpenSearch에 PDF를 인덱싱 합니다. <br>
   > 14 번 노트북은 RAG 기반 질의 응답을 합니다.
+
+<br>
+
 - Simple PDF RAG
   > 23 번 노트북은 PDF를 PDFPlumber로 파싱하여 인덱싱 하고, RAG 기반 질의 합니다. (Hybrid Search) <br>
   > 24 번 노트북은 PDF를 LLAMA-INDEX로 파싱하여 인덱싱 하고, RAG 기반 질의 합니다. (Hybrid Search)
 
+<br>
+
+- Simple PDF Q&A
+  > 31 번 노트북은 PDF를 PDFPlumber로 파싱하고, 챕터 별 요약을 수행 합니다. (no RAG) <br>
+  > 32 번 노트북은 PDF를 PDFPlumber로 파싱하고 Quiz 챗봇 형태로 동작 합니다. (no RAG)
+
+<br>
 
 ## [그림] Complex PDF RAG flow
 ![flow](./img/complex-pdf-workflow.png)
