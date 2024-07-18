@@ -25,6 +25,13 @@
 
 <br>
 
+- <b>Simple PDF Summary</b>
+  > 41 번 노트북은 PDF를 페이지마다 PNG로 변환해서 이미지로 Claude 에 입력하여 요약합니다. (no RAG) <br>
+
+
+<br>
+
+
 ## [그림] Complex PDF RAG flow
 ![flow](./img/complex-pdf-workflow.png)
 
