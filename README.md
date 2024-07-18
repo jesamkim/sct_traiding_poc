@@ -32,6 +32,11 @@
 
 <br>
 
+- <b>Simple PDF Chatbot</b>
+  > 51 번 노트북은 단일 PDF에 대한 챗봇 입니다. Knowledge Base for Amazon Bedrock의 "Chat with your document" 기능을 활용 합니다. <br>
+
+
+<br>
 
 ## [그림] Complex PDF RAG flow
 ![flow](./img/complex-pdf-workflow.png)
