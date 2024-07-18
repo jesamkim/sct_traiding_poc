@@ -27,6 +27,7 @@
 
 - <b>Simple PDF Summary</b>
   > 41 번 노트북은 PDF를 페이지마다 PNG로 변환해서 이미지로 Claude 에 입력하여 요약합니다. (no RAG) <br>
+  > 42 번 노트북은 앞서 이미지 기반으로 정리한 내용과 PDF 파서(PyMuPdf)의 내용을 결합하여 소제목 별로 요약합니다. (no RAG)
 
 
 <br>
