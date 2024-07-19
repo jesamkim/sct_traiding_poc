@@ -34,7 +34,10 @@
 
 - <b>Simple PDF Chatbot</b>
   > 51 번 노트북은 단일 PDF에 대한 챗봇 입니다. Knowledge Base for Amazon Bedrock의 "Chat with your document" 기능을 활용 합니다. <br>
+  > 52 번 노트북은 단일 PDF에 대한 챗봇 입니다. 로컬 인메모리 백터 스토어인 FAISS 를 활용합니다. 
 
+
+<br>
 
 <br>
 
