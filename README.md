@@ -39,6 +39,13 @@
 
 <br>
 
+- <b>KB (Knowledge Base) 를 활용한 RAG 구현</b>
+  > 61 번 노트북은 RAG에 넣을 로컬 PDF를 S3에 업로드 합니다. KB 생성은 문서를 참조하세요. <br>
+  > 62 번 노트북은 앞서 생성된 KB 에 대해서 쿼리하는 샘플 코드 입니다. boto3 방식, LangChian 방식 2가지 중 선택하세요.
+
+
+<br>
+
 <br>
 
 ## [그림] Complex PDF RAG flow
